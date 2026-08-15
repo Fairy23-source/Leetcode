@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Fairy23-source/Leetcode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Fairy23-source/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
