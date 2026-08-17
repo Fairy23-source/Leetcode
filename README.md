@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
+| [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
