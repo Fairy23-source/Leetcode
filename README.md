@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Fairy23-source/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Fairy23-source/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Fairy23-source/Leetcode/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
