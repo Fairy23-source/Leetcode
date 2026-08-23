@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fairy23-source/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
+| [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Fairy23-source/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Fairy23-source/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+| [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Fairy23-source/Leetcode/tree/master/0069-sqrtx) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
