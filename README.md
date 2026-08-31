@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fairy23-source/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Fairy23-source/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
