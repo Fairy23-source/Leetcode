@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Fairy23-source/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Fairy23-source/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Fairy23-source/Leetcode/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
