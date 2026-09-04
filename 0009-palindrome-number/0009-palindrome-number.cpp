@@ -10,7 +10,7 @@ public:
 
         while (x > 0) {
 
-            int digit = x % 10;          
+                    int digit = x % 10;          
 
             reverse = reverse * 10 + digit; 
 
