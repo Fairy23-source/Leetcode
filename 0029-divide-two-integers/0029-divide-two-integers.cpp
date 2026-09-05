@@ -7,7 +7,7 @@ public:
             return INT_MAX;
               }
 
-        long long a = abs((long long)dividend);
+              long long a = abs((long long)dividend);
         long long b = abs((long long)divisor);
 
         long long result = 0;
