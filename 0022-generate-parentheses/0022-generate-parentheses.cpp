@@ -12,7 +12,7 @@ public:
 
         // We can add '(' if we still have some left
         if (open < n) {
-            solve(n, open + 1, close,
+              solve(n, open + 1, close,
                   current + "(", answer);
         }
 
