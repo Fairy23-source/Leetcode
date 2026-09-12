@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fairy23-source/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Fairy23-source/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Fairy23-source/Leetcode/tree/master/0069-sqrtx) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |
