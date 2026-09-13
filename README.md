@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+| [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fairy23-source/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
