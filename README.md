@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Fairy23-source/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Fairy23-source/Leetcode/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fairy23-source/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Fairy23-source/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Fairy23-source/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Fairy23-source/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0836-rectangle-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fairy23-source/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Fairy23-source/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Fairy23-source/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fairy23-source/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Fairy23-source/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fairy23-source/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fairy23-source/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
