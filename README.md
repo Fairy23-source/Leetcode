@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Fairy23-source/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Fairy23-source/Leetcode/tree/master/0048-rotate-image) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fairy23-source/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Fairy23-source/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Fairy23-source/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Fairy23-source/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Fairy23-source/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Fairy23-source/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Fairy23-source/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Fairy23-source/Leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
