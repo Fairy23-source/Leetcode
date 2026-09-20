@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Fairy23-source/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Fairy23-source/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Fairy23-source/Leetcode/tree/master/0039-combination-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fairy23-source/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Fairy23-source/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Fairy23-source/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Fairy23-source/Leetcode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Fairy23-source/Leetcode/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/Fairy23-source/Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fairy23-source/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
