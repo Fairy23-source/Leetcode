@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fairy23-source/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Fairy23-source/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Fairy23-source/Leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Fairy23-source/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Fairy23-source/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Fairy23-source/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Fairy23-source/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Fairy23-source/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Fairy23-source/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Fairy23-source/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Manacher
 |  |
