@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Fairy23-source/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Fairy23-source/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fairy23-source/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Fairy23-source/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Fairy23-source/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Fairy23-source/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Fairy23-source/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Fairy23-source/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Fairy23-source/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fairy23-source/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
