@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
 | [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Fairy23-source/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fairy23-source/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fairy23-source/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Fairy23-source/Leetcode/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Fairy23-source/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Fairy23-source/Leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Fairy23-source/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fairy23-source/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fairy23-source/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Fairy23-source/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fairy23-source/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Fairy23-source/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Fairy23-source/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Fairy23-source/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Fairy23-source/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fairy23-source/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Fairy23-source/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
